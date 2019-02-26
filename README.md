@@ -27,7 +27,7 @@ https://t.me/proxy?server=35.204.27.32&port=555&secret=ddbb2753bb20cf1e956aeaaea
 
 https://t.me/proxy?server=0x23CC1B20&port=555&secret=ddbb2753bb20cf1e956aeaaea0e5638b7e 
 
-现在已经成为无广告TG代理了，
+之后成为无广告TG代理
 
 **注意：安卓客户端无法使用**
 
