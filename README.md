@@ -9,11 +9,11 @@
 
 [免费的ssr和v2ray>>](http://www.softpen.net/)
 
-[免费分享各种翻墙资源](https://fangeqiang.com/408.html)
+[免费分享各种翻墙资源>>](https://fangeqiang.com/408.html)
 
-[ssr免费节点](http://freefq.com/ss/)
+[ssr免费节点>>](http://freefq.com/ss/)
 
-[各种ssr翻墙节点6小时效期](https://c.ishadowx.net/)
+[ssr翻墙节点6小时效期>>](https://c.ishadowx.net/)
 
 **将有赞助商广告的TG代理转换成无广告的TG代理方法**
 
@@ -21,7 +21,7 @@
 
 https://t.me/proxy?server=35.204.27.32&port=555&secret=ddbb2753bb20cf1e956aeaaea0e5638b7e
 
-将IP地址：35.204.27.32 转换成[十六进制](https://www.miniwebtool.com/ip-address-to-hex-converter/?ip=74.125.43.99)：0x23CC1B20 
+将IP地址：35.204.27.32 转换成[十六进制>>](https://www.miniwebtool.com/ip-address-to-hex-converter/?ip=74.125.43.99)：0x23CC1B20 
 
 替换原来的IP地址如下
 
