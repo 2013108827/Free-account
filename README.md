@@ -15,6 +15,8 @@
 
 [ssr翻墙节点6小时效期>>](https://c.ishadowx.net/)
 
+[免费上网账号>>](https://free-ss.site/)
+
 **将有赞助商广告的TG代理转换成无广告的TG代理方法**
 
 这是有广告的代理：
