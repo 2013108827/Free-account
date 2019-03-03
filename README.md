@@ -18,6 +18,7 @@
 [免费上网账号>>](https://free-ss.site/)
 
 [免费翻墙节点>>](https://lncn.org/)
+[免费HTTPS代理节点>>](https://github.com/YoulianBoshi/Free-account/blob/master/HTTPS%E4%BB%A3%E7%90%86%E8%8A%82%E7%82%B9)
 
 **将有赞助商广告的TG代理转换成无广告的TG代理方法**
 
