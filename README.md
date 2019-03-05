@@ -19,7 +19,7 @@
 
 [免费翻墙节点>>](https://lncn.org/)
 
-[免费HTTPS代理节点>>](https://github.com/YoulianBoshi/Free-account/blob/master/HTTPS%E4%BB%A3%E7%90%86%E8%8A%82%E7%82%B9)
+[Chrome翻墙插件，节点多、速度快和不用注册>>](https://chrome.google.com/webstore/detail/real-vpn-free-secure-netw/migcmongocohiaeafhdgloalobijfdgm)
 
 **将有赞助商广告的TG代理转换成无广告的TG代理方法**
 
