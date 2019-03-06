@@ -7,6 +7,8 @@
 
 [完全免费的v2订阅，每个月50G>>](https://v2fast.tk/cart.php)
 
+[纯公益机场注册就送50G>>](https://fyun.ga)
+
 [免费的ssr和v2ray>>](http://www.softpen.net/)
 
 [免费分享各种翻墙资源>>](https://fangeqiang.com/408.html)
@@ -19,7 +21,7 @@
 
 [免费翻墙节点>>](https://lncn.org/)
 
-[Chrome翻墙插件，节点多、速度快和不用注册>>](https://chrome.google.com/webstore/detail/real-vpn-free-secure-netw/migcmongocohiaeafhdgloalobijfdgm)
+[Chrome免费VPN插件，安装即用>>](https://chrome.google.com/webstore/detail/real-vpn-free-secure-netw/migcmongocohiaeafhdgloalobijfdgm)
 
 **将有赞助商广告的TG代理转换成无广告的TG代理方法**
 
