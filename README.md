@@ -5,8 +5,6 @@
 
 [油脸博士的v2ray订阅地址>>](https://youlianboshi.netlify.com/)
 
-[永久免费>>](https://www.lanzous.com/i3degwd)
-
 [完全免费的v2订阅，每个月50G>>](https://v2fast.tk/cart.php)
 
 [纯公益机场注册就送50G>>](https://fyun.ga)
