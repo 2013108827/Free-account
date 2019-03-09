@@ -45,7 +45,7 @@ https://t.me/proxy?server=0x23CC1B20&port=555&secret=ddbb2753bb20cf1e956aeaaea0e
 
 ![微信支付宝](https://telegra.ph/file/18d16f370cce6ea10d3e3.png)
 
-**Netflix Cookies** 关闭自动翻译再复制
+**Netflix Cookies** 
 
 ```
 [
