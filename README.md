@@ -21,6 +21,8 @@
 
 [免费翻墙节点>>](https://lncn.org/)
 
+[能解锁Netflix网站的VPN](https://www.lanzous.com/i31g8jc)
+
 [Chrome免费VPN插件，安装即用>>](https://chrome.google.com/webstore/detail/real-vpn-free-secure-netw/migcmongocohiaeafhdgloalobijfdgm)
 
 **将有赞助商广告的TG代理转换成无广告的TG代理方法**
