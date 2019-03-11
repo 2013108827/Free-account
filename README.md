@@ -1,6 +1,10 @@
 
 **以下信息随时发生变动，不保证长期稳定**
 
+**每次开会都逃不过GFW的高度封锁，主要是GFW的深度检测包所致
+
+[查看如何绕过深度包检测？>>](https://github.com/ValdikSS/GoodbyeDPI)
+
 ![](https://telegra.ph/file/da3af9a3058e23a306b67.jpg)
 
 [油脸博士的v2ray订阅地址>>](https://youlianboshi.netlify.com/)
