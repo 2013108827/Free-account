@@ -51,7 +51,25 @@ https://t.me/proxy?server=0x23CC1B20&port=555&secret=ddbb2753bb20cf1e956aeaaea0e
 
 ![微信支付宝](https://telegra.ph/file/18d16f370cce6ea10d3e3.png)
 
-**Netflix Cookies** 
+![](https://telegra.ph/file/07e31466ff1625eee00ef.png)
+
+**请不要相信某宝上的Netflix Cookies，他们也是从这些网站上面下载拿去卖的，不稳定而且容易失效**
+
+https://tecknity.com/netflix-premium-cookies/
+
+https://www.pagalcoder.tk/
+
+https://letsdownloads.com/netflix-cookies/
+
+https://tricksnation.com/netflix-premium-cookies/
+
+http://free-cookiesnetflix.blogspot.com/
+
+https://www.mycookiesfree.com/
+
+https://everyfreestuff.online/netflix-cookies/
+
+**自己的 Netflix Cookies** 
 
 ```
 [
