@@ -72,5 +72,5 @@ https://everyfreestuff.online/netflix-cookies/
 **自己的 Netflix Cookies** 
 
 ```
-账号已被人恶意取消会员资格，可能触动某些人的利益，本人不再分享Netflix Cookies，请不要相信某宝任何的Netflix Cookies
+账号已被人恶意取消会员资格，可能触动某些人的利益，本人不再分享Netflix Cookies，请勿相信某宝任何的Netflix Cookies产品
 ```
