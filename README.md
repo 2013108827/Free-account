@@ -13,6 +13,10 @@
 
 [翻云公益站>>](https://fyun.ga)
 
+[ssr节点每日更新>>](http://52.199.184.32/index/)
+
+[free.ss-ssr>>](https://free.ss-ssr.com/)
+
 [Softpen>>](http://www.softpen.net/)
 
 [翻个墙>>](https://fangeqiang.com/408.html)
@@ -29,7 +33,7 @@
 
 [谷歌VPN插件，免注册>>](https://chrome.google.com/webstore/detail/real-vpn-free-secure-netw/migcmongocohiaeafhdgloalobijfdgm)
 
-[安卓共享VPN热点工具](https://github.com/Mygod/VPNHotspot/releases)
+[安卓共享VPN热点工具>>](https://github.com/Mygod/VPNHotspot/releases)
 
 **将有赞助商广告的TG代理转换成无广告的TG代理方法**
 
@@ -42,8 +46,6 @@ https://t.me/proxy?server=35.204.27.32&port=555&secret=ddbb2753bb20cf1e956aeaaea
 https://t.me/proxy?server=0x23CC1B20&port=555&secret=ddbb2753bb20cf1e956aeaaea0e5638b7e 
 
 **注意：安卓客户端无法使用**
-
-谢谢你的赞赏和支持
 
 ![微信支付宝](https://telegra.ph/file/18d16f370cce6ea10d3e3.png)
 
