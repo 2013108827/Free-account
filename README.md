@@ -47,28 +47,10 @@ https://t.me/proxy?server=0x23CC1B20&port=555&secret=ddbb2753bb20cf1e956aeaaea0e
 
 **注意：安卓客户端无法使用**
 
+```
+Netflix尊享高级账号一个月[8RMB],需要可以联系我
+```
+
 ![微信支付宝](https://telegra.ph/file/18d16f370cce6ea10d3e3.png)
 
 ![](https://telegra.ph/file/07e31466ff1625eee00ef.png)
-
-**Netflix Cookie网站大全**
-
-https://tecknity.com/netflix-premium-cookies/
-
-https://www.pagalcoder.tk/
-
-https://letsdownloads.com/netflix-cookies/
-
-https://tricksnation.com/netflix-premium-cookies/
-
-http://free-cookiesnetflix.blogspot.com/
-
-https://www.mycookiesfree.com/
-
-https://everyfreestuff.online/netflix-cookies/
-
-**自己的 Netflix Cookies** 
-
-```
-账号已被人恶意取消会员资格，暂不分享Netflix Cookies
-```
