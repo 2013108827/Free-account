@@ -48,7 +48,7 @@ https://t.me/proxy?server=0x23CC1B20&port=555&secret=ddbb2753bb20cf1e956aeaaea0e
 **注意：安卓客户端无法使用**
 
 ```
-Netflix尊享高级账号一个月[8RMB],需要可以联系我
+Netflix尊享高级账号一个月[8RMB],需要可以联系我的电报账号 https://t.me/Netflixshopp
 ```
 
 ![微信支付宝](https://telegra.ph/file/18d16f370cce6ea10d3e3.png)
