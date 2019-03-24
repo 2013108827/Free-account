@@ -1,7 +1,7 @@
 ![](https://telegra.ph/file/07e31466ff1625eee00ef.png)
 
 ```
-Netflix尊享高级账号一个月[8RMB],需要可以联系我的电报账号 https://t.me/Netflixshopp
+Netflix尊享高级账号一个月[8RMB],需要可以联系
 ```
 
 **以下信息随时可能变动，不保证长期不变**
