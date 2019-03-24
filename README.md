@@ -12,8 +12,6 @@ Netflix尊享高级账号一个月[8RMB],需要可以联系我的电报账号 ht
 
 ![](https://telegra.ph/file/da3af9a3058e23a306b67.jpg)
 
-[油脸博士的v2ray订阅地址>>](https://youlianboshi.netlify.com/)
-
 [V2FAST公益v2>>](https://v2fast.tk/)
 
 [翻云公益站>>](https://fyun.ga)
