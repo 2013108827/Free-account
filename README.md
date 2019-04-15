@@ -1,10 +1,4 @@
-![](https://telegra.ph/file/07e31466ff1625eee00ef.png)
-
-Netflix独享账号请加入我的电报群，赠原生香港IP，https://t.me/NetflixPrimeBox
-
 **以下信息随时可能变动，不保证长期不变**
-
-**每逢开会都躲不过GFW的封锁主要是GFW的深度检测包所致，加上网络公开节点封锁几乎不费力气，如果你的节点未公开可通过DPI工具绕过GFW深度包检测，DPI运行不与任何VPN发生冲突**
 
 [查看如何绕过深度包检测？>>](https://github.com/ValdikSS/GoodbyeDPI)
 
