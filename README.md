@@ -2,8 +2,7 @@
 
 ![](https://telegra.ph/file/1b8d0d0e15dbad8d83225.jpg)
 
-本项目的Netflix Cookies，更新付款在【安全码CVV】处输入“007”继续使用，如果失效请尝试更换其它的bin
-
+本项目的Netflix Cookies，更新付款在【安全码CVV】框中随意输入3位数字继续使用，如果失效请尝试更换其它的垃圾箱
 ![](https://telegra.ph/file/b4d8fa84fc1c5360af5e1.png)
 
 [查看如何绕过深度包检测？>>](https://github.com/ValdikSS/GoodbyeDPI)
